@@ -103,3 +103,8 @@ Educación: Workshops y talleres para la comunidad
 
 ¡Únete a la revolución mesh de Mar del Plata! 📡🇦🇷
 Proyecto iniciado: Julio 2025 | Hardware: 100% Completo | Estado: En Construcción
+
+## 💖 Support Mesh MDQ
+Help us expand Argentina's most advanced coastal mesh network!
+
+[![Support on Patreon](https://img.shields.io/badge/Support-Patreon-orange)](https://patreon.com/MeshMDQ)
