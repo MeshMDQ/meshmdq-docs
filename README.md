@@ -107,4 +107,14 @@ Proyecto iniciado: Julio 2025 | Hardware: 100% Completo | Estado: En Construcci�
 ## 💖 Support Mesh MDQ
 Help us expand Argentina's most advanced coastal mesh network!
 
-[![Support on Patreon](https://img.shields.io/badge/Support-Patreon-orange)](https://patreon.com/MeshMDQ)
+## 💖 Support Mesh MDQ
+
+Help us expand Argentina's most advanced coastal mesh network!
+
+**[💰 Support on Patreon](https://patreon.com/MeshMDQ)**
+
+Your support helps us:
+- Add more nodes across Mar del Plata
+- Improve network coverage and reliability  
+- Create community workshops and documentation
+- Maintain autonomous solar infrastructure
